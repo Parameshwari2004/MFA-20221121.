@@ -1,0 +1,86 @@
+.container{
+   text-decoration: none;
+   color: black;
+   margin-top: 10px;
+   text-decoration: none;  
+   display: flex;
+   justify-content: flex-end;
+   
+  
+}
+.learn{
+    border:2px solid black;
+    border-radius:20px;
+    height:40px;
+    width: 400px;
+    text-align: center;
+    background-color:hsl(255deg 43% 28%) ;
+    margin-top:60px;
+    margin-left: 30px;
+    color:white;
+    
+    
+
+}
+fieldset{
+    background-color:#e4f2f2  ;
+    margin-top:40px;
+    border:2px solid #e4f0f0  ;
+    height:800px;
+    border-radius:10px;
+    
+}
+h1{
+   margin-top:20px; 
+   font-size:50px;
+   margin-left:30px;
+
+}
+p{
+   margin-top:10px;
+   margin-left:30px;
+   font-size:20px;
+   
+}
+#email{
+    width:300px;
+    height:50px;
+    text-align: center;
+    margin-left: 30px;
+
+}
+button{
+     height:60px;
+     width:150px;
+     background-color:hsl(255deg 43% 28%) ; ;
+     margin-left:10px;
+     border-radius:5px;
+     color: white;
+}
+.no img{
+    width: 400px;
+    height: 400px;
+    float:right;
+    margin-right: 30px;
+    
+
+
+    
+}
+img{
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+h2{
+  margin-left: 30px;
+  margin-top:90px;
+}
+a{
+   color: white;
+
+}
+h4{
+  color: gray;
+
+}
